@@ -1,0 +1,12 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+}
+
+canvas {
+  position: fixed;
+  left: 0;
+  top: 0;
+}
